@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.1338a803.css",
-    "main.js": "/static/js/main.187aa1fd.js",
+    "main.js": "/static/js/main.814df001.js",
     "static/js/787.b704f7a9.chunk.js": "/static/js/787.b704f7a9.chunk.js",
-    "busd.png": "/0198ccc5fe46b842f9af53266d9be79d.png",
-    "usdc.png": "/cd6dc63871398d078e1d25e04f3f75fb.png",
-    "usdt.png": "/c9ab0f88a57e712b812f65d2a3541c92.png",
     "static/media/logo.svg": "/static/media/logo.5e4a92be4cc70b052f4f694e3644b33d.svg",
     "static/media/metamask.svg": "/static/media/metamask.c901ad3514ec230706287095d3842e69.svg",
+    "static/media/usdc.svg": "/static/media/usdc.f08e02b1252e78ae2924100dfcb8428c.svg",
     "static/media/trust.svg": "/static/media/trust.bc8bdd78fc31579b3042ea50e365e8a5.svg",
     "index.html": "/index.html",
+    "static/media/usdt.svg": "/static/media/usdt.6dc09781df56f4a369623b3cb8349479.svg",
     "static/media/imtoken.svg": "/static/media/imtoken.0238123cef21b3ef524be5be3690f58b.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.aca572b210a697edfdcf8b08a1baf8a7.svg",
+    "static/media/busd.svg": "/static/media/busd.488237bcbb08c092806e0e404596d001.svg",
     "main.1338a803.css.map": "/static/css/main.1338a803.css.map",
-    "main.187aa1fd.js.map": "/static/js/main.187aa1fd.js.map",
+    "main.814df001.js.map": "/static/js/main.814df001.js.map",
     "787.b704f7a9.chunk.js.map": "/static/js/787.b704f7a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1338a803.css",
-    "static/js/main.187aa1fd.js"
+    "static/js/main.814df001.js"
   ]
 }
